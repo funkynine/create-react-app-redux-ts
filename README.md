@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# This template for new project on React
+
+This template includes React, Redux, TypeScript, EsLint, Prettier and other technologies
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
